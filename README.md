@@ -1,4 +1,4 @@
-# [José Thiago Pereira de Araújo]
+# José Thiago Pereira de Araújo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/seu-perfil)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfólio-lightgrey)](https://github.com/seu-usuario)
