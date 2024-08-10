@@ -1,6 +1,6 @@
 # José Thiago Pereira de Araújo
 
-Sou formado em Engenharia Mecatrônica e atualmente estou concluindo um curso técnico em Eletrônica no IFPE. Minha formação me permite transitar entre diversas áreas da engenharia, combinando conhecimentos de mecânica, eletrônica, automação e a programação, que é a àrea em que me identifico. 
+Sou Bacharel em Engenharia Mecatrônica, atualmente estou concluindo um curso técnico em Eletrônica no IFPE. Minha formação me permite transitar entre diversas áreas da engenharia, combinando conhecimentos de mecânica, eletrônica, automação e a programação, que é a àrea em que me identifico. 
 
 ## 🛠️ Competências Técnicas
 
