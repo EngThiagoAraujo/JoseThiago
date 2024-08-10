@@ -17,11 +17,6 @@ Sou formado em Engenharia Mecatrônica e atualmente estou concluindo um curso t�
 - **Sistemas de Potência:** Conhecimento em conversores de potência e seus controles.
 - **Instrumentação:** Medição e aquisição de dados usando sensores e atuadores, integrando com sistemas de controle.
 
-### Programação
-- **Linguagens:** Proficiente em C, C++, c#.
-- **Desenvolvimento de Software:** Projeto de software para sistemas embarcados, automação e aplicações científicas.
-- **IoT:** Integração de dispositivos inteligentes e desenvolvimento de soluções IoT para automação e monitoramento remoto.
-
 ## 🌱 O que estou aprendendo
 Atualmente, estou me aprofundando em:
 - Projetos de sistemas embarcados.
@@ -31,12 +26,6 @@ Atualmente, estou me aprofundando em:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-## 💼 Projetos
-Alguns dos meus projetos estão disponíveis neste repositório. Eles incluem:
-- **[Projeto 1]:** Descrição breve do projeto.
-- **[Projeto 2]:** Descrição breve do projeto.
-- **[Projeto 3]:** Descrição breve do projeto.
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngThiagoAraujo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
