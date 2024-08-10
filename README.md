@@ -27,15 +27,22 @@ Atualmente, estou me aprofundando em:
 - Projetos de sistemas embarcados.
 - Plataforma .NET através da STARTUP DIO.
 
+- ## Habilidades
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ## 💼 Projetos
 Alguns dos meus projetos estão disponíveis neste repositório. Eles incluem:
 - **[Projeto 1]:** Descrição breve do projeto.
 - **[Projeto 2]:** Descrição breve do projeto.
 - **[Projeto 3]:** Descrição breve do projeto.
 
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngThiagoAraujo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## 📫 Contato
-- **Email:** [thiagotjuh@gmail.com](thiagotjuh@gmail.com)
-- **LinkedIn:** [José Thiago](https://www.linkedin.com/in/josé-thiago-4017951a8/)
-- **GitHub:** [Seu GitHub](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-thiago-4017951a8/)- **LinkedIn:** [José Thiago](https://www.linkedin.com/in/josé-thiago-4017951a8/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago.tejota/)
 
 Fique à vontade para explorar meus projetos e entrar em contato para colaborações ou oportunidades!
