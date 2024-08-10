@@ -1,8 +1,5 @@
 # José Thiago Pereira de Araújo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfólio-lightgrey)](https://github.com/seu-usuario)
-
 Sou formado em Engenharia Mecatrônica e atualmente estou concluindo um curso técnico em Eletrônica no IFPE. Minha formação me permite transitar entre diversas áreas da engenharia, combinando conhecimentos de mecânica, eletrônica, automação e a programação, que é a àrea em que me identifico. 
 
 ## 🛠️ Competências Técnicas
